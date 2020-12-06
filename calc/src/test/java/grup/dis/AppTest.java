@@ -18,16 +18,6 @@ public class AppTest
         a=4;
         b=-2;
     }
-    /**
-     * Rigorous Test :-)
-     */
-
-    /**
-    public void shouldAnswerWithTrue()
-    {
-        assertTrue( true );
-    }
-     */
     @Test
     public void testSumar() {
         double suma=cal.Sumar(a, b);
